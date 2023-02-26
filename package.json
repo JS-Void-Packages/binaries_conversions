@@ -1,0 +1,26 @@
+{
+  "name": "binaries_convertions",
+  "version": "1.0.1",
+  "description": "Convert Decimal Numbers to Binary, Hex and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-Void-Packages/binaries_conversions.git"
+  },
+  "keywords": [
+    "Binary",
+    "Hex",
+    "Hexadecimal",
+    "Decinal",
+    "Octal"
+  ],
+  "author": "Mrthomas20121",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JS-Void-Packages/binaries_conversions/issues"
+  },
+  "homepage": "https://github.com/JS-Void-Packages/binaries_conversions#readme"
+}
